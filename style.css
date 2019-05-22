@@ -1,0 +1,367 @@
+/*
+Theme Name: Illustro
+Author: kahela fickle
+Description: fully-responsive, minimalistic theme based on bootstrap grid-system. Features include hero images, a jumbotron, side bar area, multiple content and widget areas, and more. 
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: dark, light, one-column, two-columns, right-sidebar, responsive-layout, custom-header,featured-images, microformats, post-formats.
+Text Domain: Illustro
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*==========================================*/
+/*=== GLOBAL STYLE SECTION ===*/
+/*==========================================*/
+
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+    font-size: 1.5em;
+    overflow-x: hidden;
+    color:black;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignleft {
+    float: left;
+    padding: .5em;
+}
+
+.alignright {
+    float: right;
+    padding: .5em;
+}
+
+iframe {
+    width: 100%;
+    height: 25em
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 2.2906835em;
+  border-spacing: 0;
+  border-collapse: separate;
+}
+table caption {
+  padding: 1.41575em;
+  font-weight: 600;
+}
+table th {
+  background: #dedede;
+  font-weight: 500;
+}
+table th,
+table td {
+  padding: 1em 1.618em;
+  vertical-align: top;
+  text-align: left;
+  font-size: 0.9em;
+}
+table thead th {
+  vertical-align: middle;
+}
+table tbody td {
+  background: #f6f6f6;
+}
+table tbody tr:nth-child(2n) td {
+  background: whitesmoke;
+}
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+    display: table;
+}
+.wp-caption {
+  display: table-caption;
+  caption-side: top;
+}
+/*=== NAVBAR SECTION ===*/
+
+.navbar {
+    margin-bottom: 0%;
+    border-radius: 0%
+}
+.custom-logo {
+    padding: .5em;
+}
+
+.well {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: none;
+}
+
+.size-auto,
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+    max-width: 100%;
+    height: auto;
+}
+
+.body-wrapper {
+    padding: 5em;
+}
+/*=== FEATURED SECTION ===*/
+
+header .container-fluid {
+  width: auto !important;
+}
+
+.feature {
+  position: relative;
+}
+
+.feature img {
+  width: 100%;
+}
+
+.feature-text {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  font-size: 0; /* removes the fake character generated below so it doesn't create line between divs */
+}
+.feature-text:before {
+  content:'';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.feature-text p {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+  background-color: rgba(74,82,95,0.4);
+  border-radius: 10px;
+  color: #fff;
+  font-size: 48px;
+  text-shadow: 3px 3px 0px black;
+  padding: 3%;
+  line-height: 65px;
+}
+
+/*=== STANDARD HEADER STYLE ===*/
+
+.page-heading {
+    background-color: #595959;
+}
+
+.page-heading h1 {
+    color: white;
+    padding-left: 1em;
+}
+
+
+/*=== FOOTER ===*/
+
+footer {
+    margin-top: 2em;
+}
+
+.footer-copyright {
+    margin-top: 2%;
+    padding-bottom: 2%;
+}
+
+#myFooter {
+    padding-top: 1em;
+    text-align: center;
+    color: white;
+    background:#202020;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+#myFooter li a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#myFooter .btn:hover {
+    color: white;
+}
+
+#myFooter {
+    flex: 0 0 auto;
+}
+
+
+/*==========================================*/
+/*===PAGE TEMPLATE SPECIFIC STYLE SECTION===*/
+/*==========================================*/
+
+
+/*== WELCOME BANNER ADDITIONAL STYLE ===*/
+
+.welcome {
+    margin-bottom: 0%;
+    height: auto;
+    width: 100%;
+}
+/*=== CATEGORY POSTS ===*/
+
+.categoryPosts {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+/*=== BLOG STYLE ===*/
+
+.sidebar-module{
+    padding: 1em;
+  
+}
+
+.blogmain {
+    padding: 2em;
+}
+
+
+/* styles for pagination on blog posts*/
+
+.pagination {
+    margin-bottom: 50px;
+}
+
+.pagination a span {
+    background-color: #303030;
+    color: #fff;
+}
+
+.pagination a:hover span {
+    background-color: #595959;
+    color: #fff;
+    text-decoration: none;
+}
+
+.pagination span {
+    background-color: #fff;
+    color: #000;
+    padding: 3px 8px;
+    border-radius: 5px;
+}
+
+
+/*==FULL WIDTH PAGE===*/
+.full-width {
+   padding: 3em;
+}
+
+/*== CONTACT FORM ==*/
+.contact{
+    padding:1em;
+}
+
+/*=========================*/
+/*=== VIEWPORTS ===*/
+/*=========================*/
+
+
+@media only screen and (min-width: 481px) {
+
+     .navbar-brand {
+        font-size: 1em;
+    }
+    #sidebar .list-group-item {
+        text-align: center;
+        margin: 0%;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+
+  .feature-text p {
+    font-size: 24px;
+    line-height: 20px;
+  }
+  
+  .navbar li a {
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  
+    #sidebar .list-group-item {
+        text-align: center;
+        margin: 0%;
+    }
+        
+        #sidebar .list-group-item {
+        text-align: center;
+        margin: 0%;
+     }
+}
+/*=========================*/
+/*=== WIDGET BLOCKS ===*/
+/*=========================*/
+
+/* Archives, Categories & Latest Posts */
+
+.wp-block-archives.aligncenter,
+.wp-block-categories.aligncenter,
+.wp-block-latest-posts.aligncenter {
+	list-style-position: inside;
+	text-align: center;
+}
+
+/* Latest Comments */
+
+.wp-block-latest-comments__comment-meta a {
+	box-shadow: none;
+	font-weight: 700;
+}
+
+.wp-block-latest-comments__comment-date {
+	color: #686868;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	line-height: 1.6153846154;
+}
+
+.wp-block-latest-comments .wp-block-latest-comments__comment {
+	border-top: 1px solid #d1d1d1;
+	margin-bottom: 0;
+	padding: 1.75em 0;
+}
+
+.wp-block-latest-comments__comment-excerpt p:last-child {
+	margin-bottom: 0;
+}
+
