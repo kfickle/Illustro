@@ -14,7 +14,7 @@
    <li>Basic knowledge of HTML/CSS</li>
     <li>Basic knowledge of installing and activating WordPress themes</li>
     <li>Understanding of how folders and files are structured</li>
-    <li>The ability to edit files with a text editor. Personally, I use <a href="https://brackets.io/" target="_blank"//haha just kidding this doesn't work in markdown (┛ಠ_ಠ)┛彡┻━┻> Brackets </a> and <a href="https://https://notepad-plus-plus.org//" target="_blank" //haha just kidding this doesn't work in markdown (┛ಠ_ಠ)┛彡┻━┻> NotPad++</a></li>
+    <li>The ability to edit files with a text editor. Personally, I use <a href="https://brackets.io/" target="_blank"//haha just kidding this doesn't work in markdown (┛ಠ_ಠ)┛彡┻━┻> Brackets </a> and <a href="https://https://notepad-plus-plus.org/" target="_blank" //haha just kidding this doesn't work in markdown (┛ಠ_ಠ)┛彡┻━┻> NotPad++</a></li>
   </ul>
 </section>
 
