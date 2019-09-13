@@ -20,9 +20,10 @@
 
 <section>
   <h2> Legal Stuff </h2>
- <small>License: GNU General Public License v3.0 or later. License URI: http://www.gnu.org/licenses/gpl-3.0.html </small><br>
- <p>Disclaimer: Please note that I am not liable for the actions of the services mentioned in this post, nor am I affiliated, associated, authorized, endorsed by, or in any way officially connected with any company or service mentioned. I do not receive compensation from the included hyperlinks, they are simply there to help faciliate your access to services that I personally utilize in my daily workflow. </p>
+  <small>License: GNU General Public License v3.0 or later. License URI: http://www.gnu.org/licenses/gpl-3.0.html </small> <br>
+  
+  <p>Disclaimer: Please note that I am not liable for the actions of the services mentioned in this post, nor am I affiliated, associated, authorized, endorsed by, or in any way officially connected with any company or service mentioned. I do not receive compensation from the included hyperlinks, they are simply there to help faciliate your access to services that I personally utilize in my daily workflow. </p>
  
-<p> Happy coding! <br>
--Kahela</p>
+  <p> Happy coding! <br>
+  -Kahela</p>
 </section>
