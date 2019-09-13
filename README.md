@@ -11,10 +11,10 @@
 
   <h3 id="knowledge">Things to Know Before You Begin:</h3>
   <ul aria-labelledby="knowledge">                                               
-   <li>Basic knowledge of HTML/CSS</li>
-    <li>Basic knowledge of installing and activating WordPress themes</li>
-    <li>Understanding of how folders and files are structured</li>
-    <li>The ability to edit files with a text editor. Personally, I use <a href="https://brackets.io/"> Brackets </a> and <a href="https://notepad-plus-plus.org/"> NotPad++</a></li>
+   <li>How to use HTML and CSS</li>
+    <li>How to install and activate WordPress for local and remote development </li>
+    <li>How to navigate folders and file structures on your chosen operating system</li>
+    <li>How to edit files with a text editor. Personally, I use <a href="https://brackets.io/"> Brackets </a> and <a href="https://notepad-plus-plus.org/"> NotPad++</a></li>
   </ul>
 </section>
 
