@@ -20,7 +20,7 @@
 
 <section>
   <h2> Legal Stuff </h2>
-  <p>License: GNU General Public License v3.0 or later.</p> <br>
+  <p>License: GNU General Public License v3.0 or later.</p>
   <p>License URI: http://www.gnu.org/licenses/gpl-3.0.html</p>
   
   <p>Disclaimer: Please note that I am not liable for the actions of the services mentioned in this post, nor am I affiliated, associated, authorized, endorsed by, or in any way officially connected with any company or service mentioned. I do not receive compensation from the included hyperlinks, they are simply there to help faciliate your access to services that I personally utilize in my daily workflow. </p>
