@@ -11,6 +11,7 @@ While it isn't required that you know anything about web development before you 
                                                <li>Basic knowledge of installing and activating WordPress themes</li>
                                                <li>Understanding of how folders and files are structured</li>
   <li>Ability to edit files with a text editor</li>
+</ul>
 
 License: GNU General Public License v3.0 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
