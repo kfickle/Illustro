@@ -11,7 +11,7 @@
 
   <h3 id="knowledge">Before you begin, you should know how to:</h3>
   <ul aria-labelledby="knowledge">                                               
-   <li>Use HTML and CSS</li>
+   <li>Build static websites using HTML and CSS</li>
     <li>Install and activate WordPress for local and remote development </li>
     <li>Navigate folders and file structures on your chosen operating system</li>
     <li>Edit files with a text editor. Personally, I use <a href="https://brackets.io/"> Brackets </a> and <a href="https://notepad-plus-plus.org/"> NotPad++</a></li>
