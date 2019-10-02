@@ -11,7 +11,7 @@
 
   <h3 id="knowledge">Before you begin, you should know how to:</h3>
   <ul aria-labelledby="knowledge">                                               
-    <li>Build simple dynamic websites using HTML, CSS, and PHP</li>
+    <li>Build simple dynamic websites using HTML, CSS, and PHP (Javascript would also be helpful, though not as essential)</li>
     <li> Create a simple PHP hook </li>
     <li>Install and activate WordPress for local or remote development </li>
     <li>Navigate folders and file structures on your chosen operating system</li>
