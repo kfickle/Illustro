@@ -2,7 +2,7 @@
 <h2> Project Overview </h2>
 <p>Illustro is a responsive, minimalistic wp theme based on Bootstrap-3.3.7. Features include page and post templates, advanced custom fields and options, hero images, a jumbotron area, sidebars and widget areas, and more. </p>
 
-<p><strong>BEFORE YOU CONTINUE:</strong> This theme was created as a student project and will not be receiving routine updates. I'd love it if you used my Illustro code to learn more about WordPress theming, but I would not recommend this theme for published websites. Some advice? Content Management Systems are database-driven, so safeguard your data and user-base by choosing a WordPress theme that receives frequent security updates. There are some excellent free options over on the official <a href="https://wordpress.org/themes/" target="_blank"//haha just kidding this doesn't work in markdown on Github (┛ಠ_ಠ)┛彡┻━┻>WordPress Theme Directory</a>.</p>
+<p><strong>BEFORE YOU CONTINUE:</strong> This theme was created as a student project and will not be receiving routine updates. I'd love it if you used my code to learn more about WordPress theming, but I would not recommend this theme for use on published websites. Some advice? Content Management Systems are database-driven, so safeguard your data and user-base by choosing a WordPress theme that receives frequent security updates. There are some excellent free options over on the official <a href="https://wordpress.org/themes/" target="_blank"//haha just kidding this doesn't work in markdown on Github (┛ಠ_ಠ)┛彡┻━┻>WordPress Theme Directory</a>.</p>
 
 <section>
   <h2>Knowledgebase</h2>
