@@ -18,8 +18,7 @@
     <li>Navigate folders and file structures on your chosen operating system</li>
     <li>Edit files with a text editor. Personally, I use <a href="https://brackets.io/"> Brackets </a> and <a href="https://notepad-plus-plus.org/"> NotPad++</a></li>
   </ul>
-  
-    <p> Happy coding! <br>
+  <p>Happy coding! <br>
   -Kahela</p>
 </section>
 
