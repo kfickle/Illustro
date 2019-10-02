@@ -1,6 +1,6 @@
 # Wordpress Theme: Illustro 
 <h2> Project Overview </h2>
-<p>Illustro is a responsive, minimalistic wp theme based on Bootstrap-3.3.7. Features include page and post templates, advanced custom fields and options, hero images, a jumbotron area, sidebars and widget areas, and more. </p>
+<p>Illustro is a responsive, minimalistic WordPress theme based on Bootstrap-3.3.7. Features include page and post templates, advanced custom fields and options, hero images, a jumbotron area, sidebars and widget areas, and more. </p>
 
 <p><strong>BEFORE YOU CONTINUE:</strong> This theme was created as a student project and will not be receiving routine updates. I'd love it if you used my code to learn more about WordPress theming, but I would not recommend this theme for use on published websites. Some advice? Content Management Systems are database-driven, so safeguard your data by choosing a WordPress theme that receives frequent security updates. There are some excellent free options over on the official <a href="https://wordpress.org/themes/">WordPress Theme Directory</a>.</p>
 
@@ -11,7 +11,7 @@
 
   <h3 id="knowledge">Before you begin, you should know how to:</h3>
   <ul aria-labelledby="knowledge">                                               
-  <li>Build simple dynamic websites following <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript"> current reccommended practices</a></li>
+  <li>Build simple dynamic websites following <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript"> current recommended practices</a></li>
     <li>Write code in HTML, CSS, and PHP (Javascript would also be helpful, though not as essential to WP themings essential functionality)</li>
     <li> Create a simple PHP hook </li>
     <li>Install and activate WordPress for local or remote development </li>
