@@ -9,7 +9,7 @@
 <section>
   <h2>Knowledgebase</h2>
 
-  <p>While it isn't required that you know anything about web development before you start working with Content Management Systems (like WordPress) it's helpful to have at least a rudimentary understanding of how websites are built before you try yout hand at a custom CMS theme.</p>
+  <p>While it isn't required that you know anything about web development before you start working with Content Management Systems (like WordPress) it's helpful to have at least a rudimentary understanding of how websites are built before you try your hand at a custom CMS theme.</p>
 
   <h3 id="knowledge">Before you begin, you should know how to:</h3>
   <ul aria-labelledby="knowledge">                                               
