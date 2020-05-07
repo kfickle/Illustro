@@ -13,7 +13,7 @@
 
   <h3 id="knowledge">Before you begin, you should know how to:</h3>
   <ul aria-labelledby="knowledge">                                               
-  <li>Build simple dynamic websites following <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript"> current recommended practices</a></li>
+  <li>Build simple dynamic websites following <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript"> recommended practices</a></li>
     <li>Write code in HTML, CSS, and PHP (Javascript would also be helpful, though not as essential for basic functionality)</li>
     <li> Create a simple PHP hook </li>
     <li>Install and activate WordPress for local or remote development </li>
