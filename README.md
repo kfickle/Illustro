@@ -4,7 +4,7 @@
 
 <p><strong>BEFORE YOU CONTINUE:</strong> This theme was created as a student project and will not be receiving routine updates. I'd love it if you used my code to learn more about WordPress theming, but I would not recommend this theme for use on published websites.</p>
  
-<p>Content Management Systems are database-driven, so safeguard your data by choosing a WordPress theme that receives frequent security updates. There are some excellent free options over on the official <a href="https://wordpress.org/themes/">WordPress Theme Directory</a>.</p>
+<p>Content Management Systems are database-driven, so safeguard your data, visitors and shared hostng neighbors by choosing a WordPress theme that receives frequent security updates. There are some excellent free options over on the official <a href="https://wordpress.org/themes/">WordPress Theme Directory</a>.</p>
 
 <section>
   <h2>Knowledgebase</h2>
