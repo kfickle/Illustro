@@ -2,6 +2,8 @@
 // for when you need to install wordpress within a subdirectory
 // of a root wordpress site.
 
+** Seems to already be bundled in newer installations **
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
